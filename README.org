@@ -1,0 +1,16 @@
+#+TITLE:     DCCS Historical Profile
+#+SUBTITLE:  Commentary and documents
+#+AUTHOR:    Kent Ortell Pollard Bull
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil toc:2 p:t
+
+* Summary
+This repository contains a historical profile of the Davis County Cooperative 
+Society in the form of commentary, original source documents, and data 
+visualizations including timelines, graphs, charts, and other insight tools.
+
+* Injunction
+Use these documents with care. Let truth prevail and the best idea rise to the
+surface. 
+
+Namaste.
